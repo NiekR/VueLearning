@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e593df-b7f1-4297-af5c-61bece16c140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue_todo/src/components/AddTodo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_todo/src/components/Todoitem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_todo/src/components/Todos.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_todo/src/components/layout/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_todo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_todo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_todo/src/components/AddTodo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/src/components/AddTodo.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,23 +36,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vue_todo/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+            <state relative-caret-position="289">
+              <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
               <folding>
-                <element signature="e#136#184#0" expanded="true" />
+                <element signature="e#175#224#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue_todo/src/components/AddTodo.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+            <state relative-caret-position="34">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -96,8 +96,8 @@
         <option value="$PROJECT_DIR$/vue_todo/src/components/Todoitem.vue" />
         <option value="$PROJECT_DIR$/vue_todo/src/components/Todos.vue" />
         <option value="$PROJECT_DIR$/vue_todo/src/components/Header.vue" />
-        <option value="$PROJECT_DIR$/vue_todo/src/App.vue" />
         <option value="$PROJECT_DIR$/vue_todo/src/components/AddTodo.vue" />
+        <option value="$PROJECT_DIR$/vue_todo/src/App.vue" />
       </list>
     </option>
   </component>
@@ -186,19 +186,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558251800137</updated>
-      <workItem from="1558251801290" duration="5220000" />
+      <workItem from="1558251801290" duration="6053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5220000" />
+    <option name="totallyTimeSpent" value="6053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="824" y="0" width="718" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31914893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.045592707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -281,20 +281,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_todo/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/vue_todo/src/components/AddTodo.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
-          <folding>
-            <element signature="e#136#184#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue_todo/src/components/AddTodo.vue">
+    <entry file="file://$PROJECT_DIR$/vue_todo/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        <state relative-caret-position="289">
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+          <folding>
+            <element signature="e#175#224#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
