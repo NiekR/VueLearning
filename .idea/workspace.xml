@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e593df-b7f1-4297-af5c-61bece16c140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/veux_test/src/components/AddTodos.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/veux_test/src/components/Todos.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/veux_test/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/veux_test/src/store/modules/todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue_todo/src/vuex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_todo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_todo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_todo/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_todo/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/veux_test/src/components/AddTodos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/veux_test/src/components/AddTodos.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +24,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/veux_test/src/store/modules/todos.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="391">
               <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
@@ -51,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/veux_test/src/components/AddTodos.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="272">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -100,8 +91,8 @@
         <option value="$PROJECT_DIR$/veux_test/src/store/index.js" />
         <option value="$PROJECT_DIR$/veux_test/src/components/Todos.vue" />
         <option value="$PROJECT_DIR$/veux_test/src/App.vue" />
-        <option value="$PROJECT_DIR$/veux_test/src/components/AddTodos.vue" />
         <option value="$PROJECT_DIR$/veux_test/src/store/modules/todos.js" />
+        <option value="$PROJECT_DIR$/veux_test/src/components/AddTodos.vue" />
       </list>
     </option>
   </component>
@@ -203,12 +194,12 @@
       <updated>1558251800137</updated>
       <workItem from="1558251801290" duration="6289000" />
       <workItem from="1558856668077" duration="2811000" />
-      <workItem from="1558859515622" duration="4861000" />
+      <workItem from="1558859515622" duration="5147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13961000" />
+    <option name="totallyTimeSpent" value="14247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="495" y="0" width="1047" height="830" extended-state="0" />
@@ -343,6 +334,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/veux_test/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/veux_test/src/store/modules/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/veux_test/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -353,20 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/veux_test/src/components/AddTodos.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/veux_test/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/veux_test/src/components/Todos.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
@@ -374,10 +365,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/veux_test/src/store/modules/todos.js">
+    <entry file="file://$PROJECT_DIR$/veux_test/src/components/AddTodos.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
