@@ -13,6 +13,7 @@ import Todos   from './components/Todos';
 import AddTodo from './components/AddTodo';
 import axios from 'axios';
 
+
 export default {
   name: 'app',
   components: {
@@ -43,7 +44,7 @@ export default {
               .catch(err => console.log(err));
     }
   },
-  
+
   created() {
     axios.get ('https://jsonplaceholder.typicode.com/todos?_limit=20').then(res => this.todos = res.data).catch(err => console.log(err));
   }
